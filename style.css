@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(imagenes/3.jpg);
+  }
+  #publication-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .publication {
+    border: 1px solid #d3131350;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+  }
+  .delete-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: #982020;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+
+  .divfondo{
+    position: absolute;
+    background-color: #54a96292;
+    height: 100%;
+    margin-left: 25%;
+  }
+
+  .divfondo2{
+    background-color: #ffffffdc;
+    height: 100%;
+  
+  }
